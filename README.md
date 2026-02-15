@@ -25,3 +25,7 @@
 
 #
 ![для удобства я положил все файлы в одну папку:](https://github.com/wvnnacry/ChecksummsVerify/blob/main/image.png?raw=true)
+
+
+
+**для удобства я положил все файлы в одну папку**
