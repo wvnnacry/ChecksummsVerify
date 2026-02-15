@@ -20,4 +20,8 @@
 #
 4) python tinker.py manifest.json - вычислить контрольную сумму manifest.json
 
+#
 *Можете использовать папку с тестовыми файлами, которые использовал я* (прикреплена к репозиторию)
+
+#
+![для удобства я положил все файлы в одну папку:](https://github.com/wvnnacry/ChecksummsVerify/blob/main/image.png?raw=true)
