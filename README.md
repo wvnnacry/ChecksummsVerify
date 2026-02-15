@@ -11,7 +11,8 @@
 ### Использование
 все программы можно использовать в cmd/PowerShell
 1) python change_text.py - изменить все текстовые файлы
-1.1) python change_text.py file1.txt file2.txt - изменить отдельные текстовые файлы
+
+  1.1) python change_text.py file1.txt file2.txt - изменить отдельные текстовые файлы
 #
 2) python manifest_maker.py - создать manifest.json
 #
